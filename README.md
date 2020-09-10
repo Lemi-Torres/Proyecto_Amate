@@ -65,8 +65,11 @@ En este proyecto aprendí que es casi imposible saber si el diseño estará term
 Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable que será necesario continuar refinándolo cada cierto tiempo 👩🏽‍💻.
 ¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
 
+
+
 ##
 **LABORATORIA / TRACK UX-CDMX009-LIM012**
+
 Proyecto realizado por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres
 
 **Entregables:**
