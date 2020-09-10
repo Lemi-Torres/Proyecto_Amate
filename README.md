@@ -67,7 +67,6 @@ Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable
 
 ##
 Proyecto realizado por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres
-
 **LABORATORIA / TRACK UX-CDMX009-LIM012**
 
 
