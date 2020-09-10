@@ -66,6 +66,7 @@ Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable
 ¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
 
 ##
+**LABORATORIA / TRACK UX-CDMX009-LIM012**
 Proyecto realizado por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres
 
 **Entregables:**
@@ -87,9 +88,6 @@ Proyecto realizado por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe
 [Zeplin](https://zpl.io/2EN1eGg)
 
 [Video presentación | Loom](https://www.loom.com/share/e4149b22a3564e539af4a1c9980d7fb2)
-
-
-**LABORATORIA / TRACK UX-CDMX009-LIM012**
 
 
 
