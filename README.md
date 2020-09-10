@@ -5,6 +5,8 @@
 ### Duración: Mayo 2020 - Junio 2020
 ### Entregables: Wireframes, Mockups y Prototipo
 
+![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/portada.jpg)
+
 ## Contexto
 El Grupo Ámate es un centro de capacitación y actualización académico profesional, que brinda el servicio de capacitaciones psicológicas promoviendo el bienestar de la salud mental en los diversos campos de la psicología a nivel nacional.
 Se encuentra ubicado en el cono norte de Lima.
