@@ -52,6 +52,7 @@ Definimos la interacción que considerábamos era la adecuada para la navegació
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/prototipo.jpg)
 
 [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=911%3A6843)
+
 [Prototipo navegable](https://n9.cl/guqeg)
 
 ## Resultados
