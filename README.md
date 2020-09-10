@@ -69,27 +69,6 @@ Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable
 ##
 
 ###### Proyecto realizado por: Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres
-
-[Guía de Entrevistas con Usuarios de Grupo Ámate | Word](https://docs.google.com/document/d/1VmFEzIyuXxoRSUxNsJu_9O-RgXgwFUjW0NYLk697rjo/edit#)
-
-[Guía de Entrevistas con Usuarios Potenciales | Word](https://docs.google.com/document/d/1M6nLyq0gWD3bNMFYezib41bid2NV_Rif_UUc71n6t9o/edit#heading=h.icr2x84ig3zk) 
-
-[Guía de Testing con Usuarios | Word](https://docs.google.com/document/d/1_Ca-8QgwHnFRXcJ1gbCDE7Md6mjDP_bcExew-kyWOVU/edit) 
-
-[Entrevistas y Testeos con Usuarios | Video & Audio](https://drive.google.com/drive/folders/19YpIAcr1v35j0htL8TIXUaUKayM8dWTo)
-
-[Empathy Map | PNG](https://user-images.githubusercontent.com/60905476/89476756-24538e80-d751-11ea-9590-4598b260c05e.jpg)
-
-[Journey Map | PNG](https://user-images.githubusercontent.com/60905476/89476521-8233a680-d750-11ea-802b-6e03f864c206.png)
-
-[Site Map | PNG](https://user-images.githubusercontent.com/60905476/89476057-5106a680-d74f-11ea-8f86-30ebe503ae19.png)
-
-[Zeplin](https://zpl.io/2EN1eGg)
-
-[Video presentación | Loom](https://www.loom.com/share/e4149b22a3564e539af4a1c9980d7fb2)
-
-##
-
 ###### LABORATORIA (TRACK UX-CDMX009-LIM012) 
 
 
