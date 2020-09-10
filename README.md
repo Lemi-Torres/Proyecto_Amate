@@ -40,7 +40,7 @@ La herramienta que utilizamos fue Figma y en este punto ya teníamos una idea cl
 
 En reuniones con la clienta discutimos si el aspecto visual y la comunicación encajaba con lo que se buscaba y recibimos su aprobación, así que pasamos a evaluar a potenciales usuarios con nuestro producto, buscábamos saber si este les parecía atractivo, si les transmitía o comunicaba aquello que buscaban de forma clara o si se entendía.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/web1.jpg)
+![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/web2.jpg)
 
 **PROTOTIPO**
 ###### Comportamiento del producto
