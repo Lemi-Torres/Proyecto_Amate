@@ -18,7 +18,7 @@ Debido al contexto de emergencia por el Covid-19, Ámate se ha visto en la neces
 ## User Persona
 Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
 
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Benchmark.png)
+![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/User_Persona.png)
 
 ## Solución Digital
 Tras haber pasado por las distintas etapas de la Metodología Design Thinking: Empatía, Definición e Ideación, pasamos al desarrollo del modelo de la solución digital, la cual fue realizada en corto tiempo para poder ser iteradas con las y los usuarios finales pensando siempre en proporcionarles una experiencia digital positiva.
