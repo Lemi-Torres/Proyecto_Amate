@@ -15,8 +15,6 @@ Debido al contexto de emergencia por el Covid-19, Ámate se ha visto en la neces
 ## Reto
 ¿Cómo podríamos hacer una propuesta online atractiva para que profesionales de la salud mental concreten su interés en la compra del producto?
 
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/ghUserPersona.png)
-
 ## User Persona
 Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
 
@@ -31,42 +29,35 @@ Tras haber pasado por las distintas etapas de la Metodología Design Thinking: E
 Junto a mi dupla de trabajo comenzamos creamos wireframes de baja fidelidad (se utilizan escalas de grises con el propósito de que no haya un excesivo diseño visual o gráfico que pueda distraernos de lo realmente importante).
 La herramienta que utilizamos fue Balsamic y adicional a ahorrarnos tiempo, estos bocetos nos ayudaron para ir descartando o aprobando ideas junto a los miembros de mi equipo.
 
-**USER TESTING**
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_original.jpg)
+
+**MOCKUPS**
+###### Piel del Diseño
+
+Una vez definido el concepto, la estructura y los componentes básicos del diseño, realizamos mockups de alta fidelidad (son representaciones estáticas que demuestran cómo se van a representar visualmente los elementos definidos, en el wireframe).
+
+La herramienta que utilizamos fue Figma y en este punto ya teníamos una idea clara de qué apariencia visual iba a tener nuestro producto, los detalles visuales como por ejemplo el color debía representar al negocio, es por ello que era imprescindible utilizar azul y amarillo como colores predominantes en la web.
+
+En reuniones con la clienta discutimos si el aspecto visual y la comunicación encajaba con lo que se buscaba y recibimos su aprobación, así que pasamos a evaluar a potenciales usuarios con nuestro producto, buscábamos saber si este les parecía atractivo, si les transmitía o comunicaba aquello que buscaban de forma clara o si se entendía.
 
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_original.jpg)
 
-Se testeó la aplicación original de Banqui obteniendo los siguientes problemas de usabilidad:
+**PROTOTIPO**
+###### Comportamiento del producto
 
-- El icono principal no les transmitía la imagen de un banco.
-- Los contrastes de color utilizados hacían que algunos elementos no sean vistos.
-- El lenguaje utilizado en la aplicación a veces inducía al error.
-- El mensaje de referidos daba la impresión de ser clikeable.
-- No se percataron del mensaje de sms.
-- Algunos requisitos no eran claros, como la solicitud de clave de lector.
-- La app no era amigable y no los motivaba ahorrar.
-- No entendían donde tenían que agregar una meta de ahorro.
+Con los resultados de la evaluación realizamos diversos cambios visuales en la web para pasar luego a la realización de prototipos (son representaciones que incluyen o simulan la interacción con la interfaz).
 
-###### Tercer Sprint
-**INVENTARIO DE CONTENIDOS**
+Definimos la interacción que considerábamos era la adecuada para la navegación en la web y nuevamente realizamos pruebas de usabilidad para evaluar la experiencia que tienen los usuarios interactuando con el producto, gracias a ello detectamos áreas de implementación y mejora, realizando nuevamente los cambios necesarios con el fin de mejorar la experiencia de los usuarios.
 
-Basándonos en la investigación previa y hallazgos encontrados procedimos a realizar un Inventario de contenidos, documento en el que reunimos el contenido que se tiene o que hace falta para incluir en la aplicación móvil.
+## Resultados
+Mi equipo y yo logramos crear una propuesta digital atractiva que captó la atención de las y los potenciales usuarios motivándolos a navegar en la web de Ámate en búsqueda de información, a su vez la implementación de la ficha de inscripción en la web ayudó a reducir el tiempo que se tomaban anteriormente cuando recibían la ficha vía email, esta agilización los animaba aún más a su inscripción en alguna capacitación de su interés.
+Adicional cumplimos con las actividades planeadas por sprint en el tiempo establecido, siendo nuestro proyecto aprobado por la clienta.
 
-**DIAGRAMA DE FLUJO**
+## Mi aprendizaje
+En este proyecto aprendí que es casi imposible saber si el diseño estará terminado en algún momento 🙄 siempre habrá cosas por corregir, rehacer, revisar, reajustar ...
 
-Realizamos un diagrama de flujo para poder visualizar los pasos que seguirán los usuarios al realizar una serie de tareas, esto comprende desde el punto de su entrada sumando el conjunto de pasos que ejecuta hasta que completa la tarea con un resultado exitoso.
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/diagrama.png)
+Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable que será necesario continuar refinándolo cada cierto tiempo 👩🏽‍💻.
 
-**DISEÑO DE INTERFAZ DE USUARIO**
+¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
 
-Con la información y los hallazgos obtenidos se procedió a realizar una primera propuesta de diseño la cual fue testeada por 6 usuarios, todos resaltaban que si bien las funcionalidades que encontraron dentro del nuevo diseño de la app hacía que este le genere confianza y los pasos a seguir eran mucho más prácticos, la app seguía careciendo de un lenguaje amigable, no sentían un acompañamiento durante los procesos y tampoco los motivaba a ahorrar o invertir.
-
-Con un previo análisis y tomando en cuenta estos hallazgos se continuó haciendo cambios y mejoras en la interfaz, obteniendo como resultado los siguientes mockups los cuales son la representación del diseño visual del producto final.
-
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_reside%C3%B1ada.jpg)
-
-**APRENDIZAJE**
-
-En este proyecto tuve que aprender a trabajar en equipo, poner en práctica técnicas de investigación y diseño, también tuve que desarrollar habilidades de pensamiento crítico, priorización, síntesis, ideación, atención al detalle, entre otros. Aprendí a diseñar un producto poniendo al usuario en el centro y teniendo siempre presente que no diseño para mí(olvidarme de los supuestos o lo que yo creo que la app debería tener), y diseñar para las personas(satisfacer sus necesidades).
-
-Mi equipo y yo culminamos el reto con éxito logrando ofrecer una app intuitiva, personalizada y amigable :)
 
