@@ -1,15 +1,13 @@
 # Plataforma digital
 ### CLIENTE: Grupo Ámate
+### ROLES: 4 UX Researchers y 2 UI Designers
+### MI PAPEL: UI Designer (diseño visual + interacción y pruebas de usuario)
+### DURACIÓN: Mayo 2020 - Junio 2020
+### ENTREGABLES: Wireframes, Mockups y Prototipo
 
-ROLES: 4 UX Researchers y 2 UI Designers
-
-MI PAPEL: UI Designer (diseño visual + interacción y pruebas de usuario).
-
-DURACIÓN: Mayo 2020 - Junio 2020
-
-ENTREGABLES: Wireframes, Mockups y Prototipo.
-### Problemas encontrados
-La aplicación tenía problemas de diseño visual y de interacción que hacía que la aplicación no sea entendible ni fácil de usar para muchos usuarios, el lenguaje utilizado en la aplicación a veces los inducía al error, y se resaltó que los usuarios valoran mucho la funcionalidad de ahorro, sin embargo, se les hacía complicado utilizarla, entre otros. También se nos mencionó que era imperativo diseñar una aplicación para dispositivos Android, ya que se detectó que el 70% de los interesados en Banqui navegaban el landing page desde este dispositivo.
+## Contexto
+El Grupo Ámate es un centro de capacitación y actualización académico profesional, que brinda el servicio de capacitaciones psicológicas promoviendo el bienestar de la salud mental en los diversos campos de la psicología a nivel nacional.
+Se encuentra ubicado en el cono norte de Lima.
 ### User persona
 Este es el User Persona que Banqui nos presentó como parte de sus resultados de investigación, utilizamos esto para definir nuestro target usuario y poder lanzar un screener survey posteriormente.
 
