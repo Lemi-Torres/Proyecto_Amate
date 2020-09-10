@@ -1,9 +1,13 @@
-# Aplicación  Financiera
-## Preámbulo
-Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico ofrecen servicios financieros digitales y son justamente los bancos digitales uno de los segmentos que representan un gran potencial para las personas y pymes no bancarizadas o que no tienen acceso al sistema financiero tradicional. Entre las soluciones que ofrecen está la personalización de productos y servicios, una mejor experiencia, reducción de costos por desintermediación de bancos y, sobre todo, el control de las operaciones financieras desde el celular.
-## Introducción
-### Sobre el cliente
-Banqui "Tu asesor financiero", es una fintech peruana que busca brindar una experiencia financiera digital simple, rápida y personalizada para sus clientes. Se encuentra aún en un estado beta en Perú, y con miras al lanzamiento en México quiere seguir desarrollando su producto y nos ha contratado para poder ayudarlos a corregir los principales problemas que encontraron en su aplicación durante esta fase y poder obtener una buena acogida en el mercado mexicano.
+# Plataforma digital
+### CLIENTE: Grupo Ámate
+
+ROLES: 4 UX Researchers y 2 UI Designers
+
+MI PAPEL: UI Designer (diseño visual + interacción y pruebas de usuario).
+
+DURACIÓN: Mayo 2020 - Junio 2020
+
+ENTREGABLES: Wireframes, Mockups y Prototipo.
 ### Problemas encontrados
 La aplicación tenía problemas de diseño visual y de interacción que hacía que la aplicación no sea entendible ni fácil de usar para muchos usuarios, el lenguaje utilizado en la aplicación a veces los inducía al error, y se resaltó que los usuarios valoran mucho la funcionalidad de ahorro, sin embargo, se les hacía complicado utilizarla, entre otros. También se nos mencionó que era imperativo diseñar una aplicación para dispositivos Android, ya que se detectó que el 70% de los interesados en Banqui navegaban el landing page desde este dispositivo.
 ### User persona
