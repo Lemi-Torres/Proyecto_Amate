@@ -68,11 +68,10 @@ Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable
 
 ##
 
-###### Proyecto realizado en LABORATORIA(TRACK UX-CDMX009-LIM012)
+###### Proyecto realizado en LABORATORIA (TRACK UX-CDMX009-LIM012)
 
 ###### Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres
 
-**Entregables:**
 
 [Guía de Entrevistas con Usuarios de Grupo Ámate | Word](https://docs.google.com/document/d/1VmFEzIyuXxoRSUxNsJu_9O-RgXgwFUjW0NYLk697rjo/edit#)
 
