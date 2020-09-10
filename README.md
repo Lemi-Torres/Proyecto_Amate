@@ -52,7 +52,7 @@ Definimos la interacción que considerábamos era la adecuada para la navegació
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/prototipo.jpg)
 
 LINKS: [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=911%3A6843)
-       [Prototipo navegable](https://n9.cl/guqeg)
+| [Prototipo navegable](https://n9.cl/guqeg)
 
 ## Resultados
 Mi equipo y yo logramos crear una propuesta digital atractiva que captó la atención de las y los potenciales usuarios motivándolos a navegar en la web de Ámate en búsqueda de información, a su vez la implementación de la ficha de inscripción en la web ayudó a reducir el tiempo que se tomaban anteriormente cuando recibían la ficha vía email, esta agilización los animaba aún más a su inscripción en alguna capacitación de su interés.
