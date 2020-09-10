@@ -66,11 +66,10 @@ Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable
 ¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
 
 
-
 ##
-**LABORATORIA / TRACK UX-CDMX009-LIM012**
 
-Proyecto realizado por Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres
+Proyecto realizado en LABORATORIA(TRACK UX-CDMX009-LIM012)
+Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres
 
 **Entregables:**
 
