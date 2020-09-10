@@ -55,9 +55,7 @@ Adicional cumplimos con las actividades planeadas por sprint en el tiempo establ
 
 ## Mi aprendizaje
 En este proyecto aprendí que es casi imposible saber si el diseño estará terminado en algún momento 🙄 siempre habrá cosas por corregir, rehacer, revisar, reajustar ...
-
 Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable que será necesario continuar refinándolo cada cierto tiempo 👩🏽‍💻.
-
 ¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
 
 
