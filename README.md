@@ -29,7 +29,7 @@ Tras haber pasado por las distintas etapas de la Metodología Design Thinking: E
 Junto a mi dupla de trabajo comenzamos creamos wireframes de baja fidelidad (se utilizan escalas de grises con el propósito de que no haya un excesivo diseño visual o gráfico que pueda distraernos de lo realmente importante).
 La herramienta que utilizamos fue Balsamic y adicional a ahorrarnos tiempo, estos bocetos nos ayudaron para ir descartando o aprobando ideas junto a los miembros de mi equipo.
 
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/app_original.jpg)
+![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/wireframes.png)
 
 **MOCKUPS**
 ###### Piel del Diseño
