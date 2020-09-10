@@ -1,15 +1,16 @@
 # Plataforma digital
 ### Cliente: Grupo Ámate
-### ROLES: 4 UX Researchers y 2 UI Designers
-### MI PAPEL: UI Designer (diseño visual + interacción y pruebas de usuario)
-### DURACIÓN: Mayo 2020 - Junio 2020
-### ENTREGABLES: Wireframes, Mockups y Prototipo
+### Roles: 4 UX Researchers y 2 UI Designers
+### Mi papel: UI Designer (diseño visual + interacción y pruebas de usuario)
+### Duración: Mayo 2020 - Junio 2020
+### Entregables: Wireframes, Mockups y Prototipo
 
 ## Contexto
 El Grupo Ámate es un centro de capacitación y actualización académico profesional, que brinda el servicio de capacitaciones psicológicas promoviendo el bienestar de la salud mental en los diversos campos de la psicología a nivel nacional.
 Se encuentra ubicado en el cono norte de Lima.
-### User persona
-Este es el User Persona que Banqui nos presentó como parte de sus resultados de investigación, utilizamos esto para definir nuestro target usuario y poder lanzar un screener survey posteriormente.
+
+## Problema
+Debido al contexto de emergencia por el Covid-19, Ámate se ha visto en la necesidad de volverse más digital y hace un mes y medio lanzaron la ampliación de servicio de capacitación bajo la modalidad online. Se promocionaron los talleres online por Facebook, Instagram y WhatsApp, pero solo el 10% de los interesados en las capacitaciones online se inscribieron en ella.
 
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/ghUserPersona.png)
 ## Proceso de Rediseño
