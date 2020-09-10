@@ -13,45 +13,23 @@ Se encuentra ubicado en el cono norte de Lima.
 Debido al contexto de emergencia por el Covid-19, Ámate se ha visto en la necesidad de volverse más digital y hace un mes y medio lanzaron la ampliación de servicio de capacitación bajo la modalidad online. Se promocionaron los talleres online por Facebook, Instagram y WhatsApp, pero solo el 10% de los interesados en las capacitaciones online se inscribieron en ella.
 
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/ghUserPersona.png)
-## Proceso de Rediseño
-Una vez entendido el contexto del negocio y el desafío de rediseño, elaboramos un plan de trabajo para saber que actividades realizar a lo largo del desarrollo del proyecto, decidimos entonces, aplicar una metodología de trabajo ágil para obtener una mayor productividad y lograr las metas marcadas. El reto venía con una limitación de tiempo (un mes), entonces dividimos el proyecto en 4 sprints.
 
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Sprints.png)
-###### Primer Sprint
-**BENCHMARK**
+## Reto
+¿Cómo podríamos hacer una propuesta online atractiva para que profesionales de la salud mental concreten su interés en la compra del producto?
 
-Si bien era importante conocer a la marca también lo era conocer a sus competidores y sus puntos fuertes, saber que están haciendo y que están ofreciendo, así que se realizó una investigación para comparar nuestro producto con los de la competencia, aquellas apps gratuitas que trabajan en el mercado mexicano y tienen una gran aceptación por los usuarios.
+## User Persona
+Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
 
-Fintonic "Tu asistente de gasto y dinero"
-
-Mobills "Tu gestor de finanzas"
-
-Finerio "Tu administrador de quincena"
 ![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/Benchmark.png)
 
-**PROCESO DE RECLUTAMIENTO**
+## Solución Digital
+Tras haber pasado por las distintas etapas de la Metodología Design Thinking: Empatía, Definición e Ideación, pasamos al desarrollo del modelo de la solución digital, la cual fue realizada en corto tiempo para poder ser iteradas con las y los usuarios finales pensando siempre en proporcionarles una experiencia digital positiva.
 
-Para encontrar usuarios y realizar entrevistas en línea, realizamos los siguientes pasos:
+**WIREFRAMES**
+###### Esqueleto del Diseño
 
-- Definimos a quienes se harían las entrevista según el user persona de México.
-- Definimos el target usuario.
-- Escribimos y envíamos un ‘screener survey’ mediante un post en Facebook.
-
-Obtuvimos un total de 11 personas que cumplían con las características del User persona. Se decidió entonces dividir a los usuarios, cinco de ellos serían parte de las entrevistas y el resto participaría en los testeos de la aplicación original.
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/scr.png)
-
-###### Segundo Sprint
-**ENTREVISTAS**
-
-Aquí se muestran los comentarios más resaltantes de los usuarios durante la entrevista:
-
-- "Una aplicación financiera debería transmitirme confianza para poder brindar mis datos privados".
-- "Desearía que halla un modelo de seguridad y privacidad que evite robos o pérdida de dinero e información".
-- "No me gusta estar brindando información constantemente".
-- "Para mí es muy importante poder realizar los pagos de mis servicios de una manera rápida, práctica y sin cobro de comisiones"
-- "Tener un récord de gastos o ingresos de cada mes me ayudaría bastante para sacar presupuestos y hacer ajustes en mi dinero".
-- "Tomaría opciones de ahorro siempre y cuando yo pueda fijar los montos y plazos, y también poder disponer de estos ahorros ante una emergencia".
-- "Estaría más tranquilos si pudiera consultar mi saldo y mis gastos con frecuencia, pero que esto no implique tomarme demasiado tiempo".
+Junto a mi dupla de trabajo comenzamos creamos wireframes de baja fidelidad (se utilizan escalas de grises con el propósito de que no haya un excesivo diseño visual o gráfico que pueda distraernos de lo realmente importante).
+La herramienta que utilizamos fue Balsamic y adicional a ahorrarnos tiempo, estos bocetos nos ayudaron para ir descartando o aprobando ideas junto a los miembros de mi equipo.
 
 **USER TESTING**
 
