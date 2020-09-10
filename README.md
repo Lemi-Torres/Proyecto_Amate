@@ -11,11 +11,11 @@ Se encuentra ubicado en el cono norte de Lima.
 
 ## Problema
 Debido al contexto de emergencia por el Covid-19, Ámate se ha visto en la necesidad de volverse más digital y hace un mes y medio lanzaron la ampliación de servicio de capacitación bajo la modalidad online. Se promocionaron los talleres online por Facebook, Instagram y WhatsApp, pero solo el 10% de los interesados en las capacitaciones online se inscribieron en ella.
-RETO: ¿Cómo podríamos hacer una propuesta online atractiva para que profesionales de la salud mental concreten su interés en la compra del producto?
-
-![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/ghUserPersona.png)
 
 ## Reto
+¿Cómo podríamos hacer una propuesta online atractiva para que profesionales de la salud mental concreten su interés en la compra del producto?
+
+![alt tag](https://github.com/Lemi-Torres/UX-Design-Projects/blob/master/ghUserPersona.png)
 
 ## User Persona
 Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
