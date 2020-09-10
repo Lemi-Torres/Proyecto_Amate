@@ -40,7 +40,7 @@ La herramienta que utilizamos fue Figma y en este punto ya teníamos una idea cl
 
 En reuniones con la clienta discutimos si el aspecto visual y la comunicación encajaba con lo que se buscaba y recibimos su aprobación, así que pasamos a evaluar a potenciales usuarios con nuestro producto, buscábamos saber si este les parecía atractivo, si les transmitía o comunicaba aquello que buscaban de forma clara o si se entendía.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/web2.jpg)
+![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/web1.jpg)
 
 **PROTOTIPO**
 ###### Comportamiento del producto
@@ -48,6 +48,8 @@ En reuniones con la clienta discutimos si el aspecto visual y la comunicación e
 Con los resultados de la evaluación realizamos diversos cambios visuales en la web para pasar luego a la realización de prototipos (son representaciones que incluyen o simulan la interacción con la interfaz).
 
 Definimos la interacción que considerábamos era la adecuada para la navegación en la web y nuevamente realizamos pruebas de usabilidad para evaluar la experiencia que tienen los usuarios interactuando con el producto, gracias a ello detectamos áreas de implementación y mejora, realizando nuevamente los cambios necesarios con el fin de mejorar la experiencia de los usuarios.
+
+![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/web2.jpg)
 
 ## Resultados
 Mi equipo y yo logramos crear una propuesta digital atractiva que captó la atención de las y los potenciales usuarios motivándolos a navegar en la web de Ámate en búsqueda de información, a su vez la implementación de la ficha de inscripción en la web ayudó a reducir el tiempo que se tomaban anteriormente cuando recibían la ficha vía email, esta agilización los animaba aún más a su inscripción en alguna capacitación de su interés.
