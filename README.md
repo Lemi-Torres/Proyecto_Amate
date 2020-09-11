@@ -1,7 +1,7 @@
 # Plataforma digital
 ### Cliente:
 Grupo Ámate
-### Roles: *El squad estuvo conformado por seis estudiantes tanto de la sede de Ciudad de México y de la sede Lima de Laboratoria. Para agilizar el proceso de trabajo dado que teníamos un tiempo límite nos dividimos en sub squads (cuatro compañeras trabajaron en el área UX Research y otras dos en el área UI Design*
+### Roles: **El squad estuvo conformado por seis estudiantes tanto de la sede de Ciudad de México y de la sede Lima de Laboratoria. Para agilizar el proceso de trabajo dado que teníamos un tiempo límite nos dividimos en sub squads (cuatro compañeras trabajaron en el área UX Research y otras dos en el área UI Design**
 ### Mi papel:
 Formé parte del equipo en el área UI siendo responsable del diseño visual, interacción y pruebas de usuarios. Desarrollé la versión desktop de la página web junto a mi dupla de trabajo y adicional también participé presentando los avances del proyecto a la clienta.
 ### Duración:
