@@ -14,24 +14,30 @@ Página Web interactiva - versión desktop
 
 ## Índice
 
-- [1. Contexto](#contexto).
+- [1. Contexto](#contexto)
+- [2. Problema](#problema)
+- [3. Reto](#reto)
+- [4. User Persona](#user-persona)
+- [5. Solución Digital](#solución-digital)
+- [6. Resultados](#resultados)
+- [7. Mi aprendizaje](#mi-aprendizaje)
 
 ## 1. Contexto
 El Grupo Ámate es un centro de capacitación y actualización académico profesional, que brinda el servicio de capacitaciones psicológicas promoviendo el bienestar de la salud mental en los diversos campos de la psicología a nivel nacional.
 Se encuentra ubicado en el cono norte de Lima.
 
-## Problema
+## 2. Problema
 Debido al contexto de emergencia por el Covid-19, Ámate se ha visto en la necesidad de volverse más digital y hace un mes y medio lanzaron la ampliación de servicio de capacitación bajo la modalidad online. Se promocionaron los talleres online por Facebook, Instagram y WhatsApp, pero solo el 10% de los interesados en las capacitaciones online se inscribieron en ella.
 
-## Reto
+## 3. Reto
 ¿Cómo podríamos hacer una propuesta online atractiva para que profesionales de la salud mental concreten su interés en la compra del producto?
 
-## User Persona
+## 4. User Persona
 Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/user_persona.png)
 
-## Solución Digital
+## 5. Solución Digital
 Tras haber pasado por las distintas etapas de la Metodología Design Thinking: Empatía, Definición e Ideación, pasamos al desarrollo del modelo de la solución digital, la cual fue realizada en corto tiempo para poder ser iteradas con las y los usuarios finales pensando siempre en proporcionarles una experiencia digital positiva.
 
 **WIREFRAMES**
@@ -65,11 +71,11 @@ Definimos la interacción que considerábamos era la adecuada para la navegació
 :arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=911%3A6843)
 | [Prototipo navegable](https://n9.cl/guqeg)
 
-## Resultados
+## 6. Resultados
 Mi equipo y yo logramos crear una propuesta digital atractiva que captó la atención de las y los potenciales usuarios motivándolos a navegar en la web de Ámate en búsqueda de información, a su vez la implementación de la ficha de inscripción en la web ayudó a reducir el tiempo que se tomaban anteriormente cuando recibían la ficha vía email, esta agilización los animaba aún más a su inscripción en alguna capacitación de su interés.
 Adicional cumplimos con las actividades planeadas por sprint en el tiempo establecido, siendo nuestro proyecto aprobado por la clienta.
 
-## Mi aprendizaje
+## 7. Mi aprendizaje
 En este proyecto aprendí que es casi imposible saber si el diseño estará terminado en algún momento 🙄 siempre habrá cosas por corregir, rehacer, revisar, reajustar ...
 Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable que será necesario continuar refinándolo cada cierto tiempo 👩🏽‍💻.
 ¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
