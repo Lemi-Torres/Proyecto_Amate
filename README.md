@@ -7,7 +7,7 @@ El squad estuvo conformado por seis estudiantes tanto de la sede de Ciudad de M�
 Formé parte del equipo en el área UI siendo responsable del diseño visual, interacción y pruebas de usuarios. Creé y desarrollé la solución digital junto a mi dupla de trabajo y adicional también participé presentando los avances del proyecto en reuniones con la clienta.
 ### Duración:
 Mayo 2020 - Junio 2020
-### Entregables:
+### Entregable:
 Página Web interactiva - versión desktop
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/portada.jpg)
