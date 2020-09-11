@@ -12,6 +12,10 @@ Página Web interactiva - versión desktop
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/portada.jpg)
 
+## Índice
+
+- [Contexto](#contexto).
+
 ## Contexto
 El Grupo Ámate es un centro de capacitación y actualización académico profesional, que brinda el servicio de capacitaciones psicológicas promoviendo el bienestar de la salud mental en los diversos campos de la psicología a nivel nacional.
 Se encuentra ubicado en el cono norte de Lima.
