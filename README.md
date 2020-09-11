@@ -4,11 +4,11 @@ Grupo Ámate
 ### Roles:
 El squad estuvo conformado por seis estudiantes tanto de la sede de Ciudad de México y de la sede Lima de Laboratoria. Para agilizar el proceso de trabajo dado que teníamos un tiempo límite nos dividimos en sub squads (cuatro compañeras trabajaron en el área UX Research y otras dos en el área UI Design
 ### Mi papel:
-Formé parte del equipo en el área UI siendo responsable del diseño visual, interacción y pruebas de usuarios. Desarrollé la versión desktop de la página web junto a mi dupla de trabajo y adicional también participé presentando los avances del proyecto a la clienta.
+Formé parte del equipo en el área UI siendo responsable del diseño visual, interacción y pruebas de usuarios. Creé y desarrollé la solución digital junto a mi dupla de trabajo y adicional también participé presentando los avances del proyecto en reuniones con la clienta.
 ### Duración:
 Mayo 2020 - Junio 2020
 ### Entregables:
-Wireframes, Mockups y Prototipo
+Página Web interactiva - versión desktop
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/portada.jpg)
 
