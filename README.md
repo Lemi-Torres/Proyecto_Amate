@@ -15,12 +15,12 @@ Página Web interactiva - versión desktop
 ## Índice
 
 * [1. Contexto](#1-contexto)
-- [2. Problema](#problema)
-- [3. Reto](#reto)
-- [4. User Persona](#user-persona)
-- [5. Solución Digital](#solución-digital)
-- [6. Resultados](#resultados)
-- [7. Mi aprendizaje](#mi-aprendizaje)
+* [2. Problema](#2-problema)
+* [3. Reto](#3-reto)
+* [4. User Persona](#4-user-persona)
+* [5. Solución Digital](#5-solución-digital)
+* [6. Resultados](#6-resultados)
+* [7. Mi aprendizaje](#7-mi-aprendizaje)
 
 ## 1. Contexto
 El Grupo Ámate es un centro de capacitación y actualización académico profesional, que brinda el servicio de capacitaciones psicológicas promoviendo el bienestar de la salud mental en los diversos campos de la psicología a nivel nacional.
