@@ -1,5 +1,6 @@
 # Plataforma digital
-### Cliente: Grupo Ámate
+### Cliente:
+Grupo Ámate
 ### Roles: 4 UX Researchers y 2 UI Designers
 ### Mi papel: UI Designer (diseño visual + interacción y pruebas de usuario)
 ### Duración: Mayo 2020 - Junio 2020
