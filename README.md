@@ -2,7 +2,7 @@
 ### Cliente:
 Grupo Ámate
 ### Roles:
-El squad estuvo conformado por seis estudiantes tanto de la sede de Ciudad de México y de la sede Lima de Laboratoria. Para agilizar el proceso de trabajo dado que teníamos un tiempo límite nos dividimos en sub squads (cuatro compañeras trabajaron en el área UX Research y otras dos en el área UI Design
+El squad estuvo conformado por seis estudiantes, de la sedes Ciudad de México y Lima de Laboratoria. Para agilizar el proceso de trabajo dado que teníamos un tiempo límite nos dividimos en sub squads (cuatro compañeras trabajaron en el área UX Research y otras dos en el área UI Design
 ### Mi papel:
 Formé parte del equipo en el área UI siendo responsable del diseño visual, interacción y pruebas de usuarios. Creé y desarrollé la solución digital junto a mi dupla de trabajo y adicional también participé presentando los avances del proyecto en reuniones con la clienta.
 ### Duración:
@@ -84,7 +84,7 @@ Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable
 ##
 
 ###### Proyecto realizado por: Adonai Lagunes, Elizabeth Olmedo, Etna Sanchez, Guadalupe Larios, Leslie Benel y Leydi Torres
-###### LABORATORIA (TRACK UX-CDMX009-LIM012) 
+###### LABORATORIA (TRACK UX-CDMX009-LIM012 / Modalidad remota) 
 
 
 
