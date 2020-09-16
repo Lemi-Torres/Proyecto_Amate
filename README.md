@@ -1,4 +1,4 @@
-# Plataforma digital
+# Emprendimiento
 ### Cliente:
 Grupo Ámate
 ### Roles:
