@@ -10,7 +10,7 @@ Mayo 2020 - Junio 2020
 ### Entregable:
 Página Web interactiva - versión desktop
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/portada.jpg)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Amate/blob/master/img/portada.jpg)
 
 ## Índice
 
@@ -35,7 +35,7 @@ Debido al contexto de emergencia por el Covid-19, Ámate se ha visto en la neces
 ## 4. User Persona
 Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/user_persona.png)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Amate/blob/master/img/user_persona.png)
 
 ## 5. Solución Digital
 Tras haber pasado por las distintas etapas de la Metodología Design Thinking: Empatía, Definición e Ideación, pasamos al desarrollo del modelo de la solución digital, la cual fue realizada en corto tiempo para poder ser iteradas con las y los usuarios finales pensando siempre en proporcionarles una experiencia digital positiva.
@@ -46,7 +46,7 @@ Tras haber pasado por las distintas etapas de la Metodología Design Thinking: E
 Junto a mi dupla de trabajo comenzamos creamos wireframes de baja fidelidad (se utilizan escalas de grises con el propósito de que no haya un excesivo diseño visual o gráfico que pueda distraernos de lo realmente importante).
 La herramienta que utilizamos fue Balsamic y adicional a ahorrarnos tiempo, estos bocetos nos ayudaron para ir descartando o aprobando ideas junto a los miembros de mi equipo.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/wireframes.png)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Amate/blob/master/img/wireframes.png)
 
 **MOCKUPS**
 ###### Piel del Diseño
@@ -57,7 +57,7 @@ La herramienta que utilizamos fue Figma y en este punto ya teníamos una idea cl
 
 En reuniones con la clienta discutimos si el aspecto visual y la comunicación encajaba con lo que se buscaba y recibimos su aprobación, así que pasamos a evaluar a potenciales usuarios con nuestro producto, buscábamos saber si este les parecía atractivo, si les transmitía o comunicaba aquello que buscaban de forma clara o si se entendía.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/mockups.jpg)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Amate/blob/master/img/mockups.jpg)
 
 **PROTOTIPO**
 ###### Comportamiento del producto
@@ -66,7 +66,7 @@ Con los resultados de la evaluación realizamos diversos cambios visuales en la 
 
 Definimos la interacción que considerábamos era la adecuada para la navegación en la web y nuevamente realizamos pruebas de usabilidad para evaluar la experiencia que tienen los usuarios interactuando con el producto, gracias a ello detectamos áreas de implementación y mejora, realizando nuevamente los cambios necesarios con el fin de mejorar la experiencia de los usuarios.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/prototipo.jpg)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Amate/blob/master/img/prototipo.jpg)
 
 :arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=3%3A0)
 | [Prototipo navegable](https://n9.cl/guqeg)
